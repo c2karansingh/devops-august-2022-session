@@ -1,0 +1,23 @@
+{
+  "name": "devops-august-2022-session",
+  "version": "1.0.0",
+  "description": "This is the demo of my series of devops lectures that I conducted at Royal Technosoft and were delivered to Omni ISM",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-tools": "^11.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c2karansingh/devops-august-2022-session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c2karansingh/devops-august-2022-session/issues"
+  },
+  "homepage": "https://github.com/c2karansingh/devops-august-2022-session#readme"
+}
