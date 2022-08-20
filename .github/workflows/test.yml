@@ -16,7 +16,7 @@ jobs:
       - run: echo "Hello, from job 2 world!🚀"
 
 
-  print-readme:
+  print-readmeMD:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
